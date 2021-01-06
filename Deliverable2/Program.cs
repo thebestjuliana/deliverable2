@@ -6,7 +6,7 @@ namespace Deliverable2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Guess which will have mor:'heads' or 'tails'?");
+            Console.WriteLine("Guess which will have more:'heads' or 'tails'?");
             string headsOrTailsGuess;
             headsOrTailsGuess = Console.ReadLine();
 
